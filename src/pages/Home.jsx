@@ -1,4 +1,4 @@
-import sm1 from './utils/sm1.jpeg';
+import sm1 from '../utils/sm1.jpeg';
 
 
 import { Link } from "react-router-dom"
