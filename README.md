@@ -1,12 +1,58 @@
-# React + Vite
+# FanZone – Seedhe Maut Fan Site 🎤🔥
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A minimal and stylish fan site built using React + Tailwind CSS to pay tribute to **Seedhe Maut**, India’s rawest hip-hop duo.
 
-Currently, two official plugins are available:
+[🌐 Live Demo](https://end-terrm.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📝 Description
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**FanZone** is a fan-built web app dedicated solely to Seedhe Maut — showcasing their journey, music, stats, and a place for fans to drop their thoughts. Designed to be clean, responsive, and dark-mode friendly, this site blends fandom with slick frontend design.
+
+---
+
+## ✨ Features
+
+- 🎨 Home Page with custom fan art and welcome message  
+- 📖 About Page detailing Seedhe Maut’s journey  
+- 📊 Stats Page with mock data (albums, streams, top songs)  
+- 💌 Feedback Page with form validation  
+- 🌙 Dark Mode toggle (saved in localStorage)  
+- 🔁 React Router for seamless multi-page experience  
+- 🧼 Tailwind CSS for responsive and minimal styling  
+- 🔗 Deployed on Vercel
+
+---
+
+## 🧰 Tech Stack
+
+- **Frontend Framework:** React (with Vite)  
+- **Styling:** Tailwind CSS  
+- **Routing:** React Router DOM  
+- **State Management:** React Context API (for Dark Mode)  
+- **Data:** Static JSON + optional mock API  
+- **Icons:** Heroicons  
+- **Deployment:** Vercel
+
+---
+
+## 🛠️ Setup Instructions
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
+
+
+2. **Install Dependencies**
+   ```bash
+   npm install
+
+3. **Run dev server**
+   ```bash
+   npm run dev
+
+
+
+# Built with ❤️, caffeine, and Seedhe Maut on repeat 🎧
