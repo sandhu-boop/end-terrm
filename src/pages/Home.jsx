@@ -6,7 +6,7 @@ const Home = () => {
       <div className="w-full max-w-4xl mx-auto mb-12">
         <div className="relative aspect-video overflow-hidden rounded-xl shadow-xl">
           <img
-            src="/src/utils/sm1.jpeg"
+            src="./src/utils/sm1.jpeg"
             alt="Seedhe Maut Fan Art"
             className="w-full h-full object-cover"
           />

@@ -7,7 +7,7 @@ const About = () => {
 
       <div className="mb-12">
         <img
-          src="src/utils/sm2.jpg"
+          src="./src/utils/sm2.jpg"
           alt="Seedhe Maut performing"
           className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg mb-6"
         />
