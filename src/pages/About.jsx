@@ -1,4 +1,5 @@
 import Card from "../components/Card"
+import sm2 from "../utils/sm2.jpg"
 
 const About = () => {
   return (
@@ -7,7 +8,7 @@ const About = () => {
 
       <div className="mb-12">
         <img
-          src="./src/utils/sm2.jpg"
+          src={sm2}
           alt="Seedhe Maut performing"
           className="w-full h-64 md:h-80 object-cover rounded-xl shadow-lg mb-6"
         />
