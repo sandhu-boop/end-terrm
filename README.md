@@ -18,7 +18,6 @@ A minimal and stylish fan site built using React + Tailwind CSS to pay tribute t
 - 📖 About Page detailing Seedhe Maut’s journey  
 - 📊 Stats Page with mock data (albums, streams, top songs)  
 - 💌 Feedback Page with form validation  
-- 🌙 Dark Mode toggle (saved in localStorage)  
 - 🔁 React Router for seamless multi-page experience  
 - 🧼 Tailwind CSS for responsive and minimal styling  
 - 🔗 Deployed on Vercel
@@ -30,7 +29,7 @@ A minimal and stylish fan site built using React + Tailwind CSS to pay tribute t
 - **Frontend Framework:** React (with Vite)  
 - **Styling:** Tailwind CSS  
 - **Routing:** React Router DOM  
-- **State Management:** React Context API (for Dark Mode)  
+- **State Management:** React Context API 
 - **Data:** Static JSON + optional mock API  
 - **Icons:** Heroicons  
 - **Deployment:** Vercel
@@ -43,16 +42,11 @@ A minimal and stylish fan site built using React + Tailwind CSS to pay tribute t
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
-
-
 2. **Install Dependencies**
    ```bash
    npm install
-
 3. **Run dev server**
    ```bash
    npm run dev
 
-
-
-# Built with ❤️, caffeine, and Seedhe Maut on repeat 🎧
+# Built with ❤️ and Seedhe Maut on repeat 🎧
